@@ -1,6 +1,6 @@
-# A-team063-Team1234
+Welcome to AllAboutCinema!
 
-## Final Project Video: https://youtu.be/Zt0gs8Lqblc
+An all-in-one, CRUD and SQL based web application that allows users to query any movie or show from the IMDB database and add, edit, and delete their own reviews. Written in Angular, Node.js, and our database is hosted on Google Cloud Platform. 
 
 ## To Run:
 - In one terminal, run `ng serve` in ../client_main/client
